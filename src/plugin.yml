@@ -1,0 +1,5 @@
+name: qiandao
+main: com.github.startzyp.mc.qiandao
+version: 1.0
+commands:
+  qd:

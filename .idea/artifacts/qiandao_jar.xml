@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="qiandao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/qiandao_jar</output-path>
+    <root id="root">
+      <element id="archive" name="qiandao.jar">
+        <element id="module-output" name="qiandao" />
+      </element>
+    </root>
+  </artifact>
+</component>
